@@ -1,1 +1,3 @@
-# MANGA-WEBSITE
+MANGA-WEBSITE
+==
+*Pembuatan website manga jujutsu kaisen*
